@@ -1,4 +1,4 @@
-https://public.tableau.com/views/ShippingAnalytics_17252495605860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 # Shipping Analytics Dashboard – Manuport Logistics
 
