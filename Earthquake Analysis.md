@@ -61,7 +61,7 @@ This dashboard can be used by:
 3. **Analyze Trends**: Examine charts by year and month for temporal insights.
 4. **Drill Down**: Hover over map points or table entries for detailed earthquake data.
 
----
+--
 
 
 
